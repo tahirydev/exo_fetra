@@ -1,0 +1,62 @@
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+.bordure{
+    background-color: #90ee90;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+}
+
+/*-----------------Menu et section-----------------------*/
+nav{
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+}
+section{
+    width: 75%;
+    float: right;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+
+/*-----------------Section et article haut-------*/
+
+#droite, #gauche{
+    width: 40%;
+    box-sizing: border-box;
+}
+#aside{
+    width: 20%;
+}
+
+#gauche{
+    float: left;
+}
+
+#droite{
+    float: left;
+}
+#aside{
+    float: right;
+}
+
+/*------------------Section et article bas-------------*/
+#bas_gauche, #bas_droite{
+    width: 50%;
+    box-sizing: border-box;
+}
+
+#bas_gauche{
+    float: left;
+}
+
+#bas_droite{
+    float: right;
+}

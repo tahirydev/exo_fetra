@@ -1,0 +1,90 @@
+.container{
+    margin-top: 5rem;
+    width: 100%;
+}
+
+.rectangle{
+    height: 2rem;
+    background-color: #8a8496;
+    margin-bottom: 2rem;
+}
+
+#block_2_gauche{
+    width: 6%;
+    float: left;
+}
+#block_2_droite{
+    width: 93%;
+    float: right;
+}
+
+/*-----------------------------------*/
+
+#block_3_gauche{
+    width: 12%;
+    float: left;
+}
+#block_3_droite{
+    width: 87%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_4_gauche{
+    width: 18%;
+    float: left;
+}
+#block_4_droite{
+    width:81%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_5_gauche{
+    width: 24%;
+    float: left;
+}
+#block_5_droite{
+    width: 75%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_6_gauche{
+    width: 30%;
+    float: left;
+}
+#block_6_droite{
+    width: 69%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_7_gauche{
+    width: 36%;
+    float: left;
+}
+#block_7_droite{
+    width: 63%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_8_gauche{
+    width: 42%;
+    float: left;
+}
+#block_8_droite{
+    width: 57%;
+    float: right;
+}
+
+/*------------------------------------*/
+#block_9_gauche{
+    width: 48%;
+    float: left;
+}
+#block_9_droite{
+    width: 51%;
+    float: right;
+}
