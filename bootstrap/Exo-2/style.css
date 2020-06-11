@@ -1,0 +1,13 @@
+.row{
+    margin-top: 10px;
+}
+
+.rectangle{
+    height: 2rem;
+    background-color: #8a8496;
+    
+}
+
+.no-padding{
+    padding-left:0;
+}

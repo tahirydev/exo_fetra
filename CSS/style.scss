@@ -1,0 +1,60 @@
+
+$bg-color:#ffe5e7;
+$border-color: black;
+
+#container_1{
+    columns:4
+}
+
+
+.block{
+    height: 2rem;
+    border: 1px solid $border-color;
+    background-color: $bg-color;
+    border-radius: 5px;
+}
+
+/*-------------------------------------------*/
+
+#container_2{
+    margin-top: 20px;
+    width: 100%;
+}
+
+#first{
+    width: 33%;
+    float: left;
+}
+
+#second{
+    width: 65%;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+/*-------------------------------------------*/
+
+#container_3{
+    margin-top: 20px;
+    width: 100%;
+    
+}
+
+#medium{
+    width: 24%;
+    float: left;
+}
+
+#large{
+    width: 59%;
+    float: left;
+    margin-left: 1rem;
+}
+
+#small{
+    width: 14%;
+    float: right;
+}   
